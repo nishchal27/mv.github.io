@@ -23,7 +23,7 @@ display: none;
 /* top navbar header  end*/
 
 
-@media(max-width: 768px){
+@media(max-width: 900px){
     .nav-item{
         text-align: center !important;
     }
